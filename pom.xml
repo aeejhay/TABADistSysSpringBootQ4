@@ -9,7 +9,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>smartdevice</name>
+    <name>juansmartdevice</name>
     <description>Smart Device REST API - Spring Boot Project</description>
 
     <parent>
